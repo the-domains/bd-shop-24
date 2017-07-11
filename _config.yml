@@ -1,0 +1,27 @@
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.37618314381688833
+  lightness: 0.556477281730622
+  saturation: 0.30768078612163663
+  rhythmicContrast: 0.5914601350668818
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: BD Shop 24
+layout_spectrum: 0.6938067378941923
+typography_spectrum: 0.445434604305774
+content: []
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad3ae166-1a30-40aa-be17-13d2a446dac2.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4adb136-d9b5-4446-b516-4368c1251484.gif
